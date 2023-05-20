@@ -1,8 +1,6 @@
 # Graph
 
-Graph class with several graph algorithms including depth-first search, 
-breadth-first search, dijkstra's shortest path, minimum spanning tree
-
+Graph class with several graph algorithms including Depth-First Search, Breadth-First Search, Dijkstra's Shortest Path, Minimum Spanning Tree using Prim's Algorithm, and Minimum Spanning Tree using Kruskal's Algorithm.
 
 ## cpp files
 
